@@ -4,7 +4,7 @@
 * Evaluation - 자동 평가 파이프라인 Accuracy / Hallucination / Golden Dataset test
 * Deployment 
 * Monitoring - langFuse / Slack
-* Feedback Loop 
+* Feedback Loop - 사용자 피그백 수집 / 반영 
 
 
 ### 참고 ###
