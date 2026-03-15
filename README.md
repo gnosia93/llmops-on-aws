@@ -1,4 +1,4 @@
-# aiops-on-aws
+# llmops-on-aws
 
 * [C2. 모델평가하기](https://github.com/gnosia93/aiops-on-aws/blob/main/lesson/2.evaluation.md)
 
