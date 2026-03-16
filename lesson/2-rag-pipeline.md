@@ -1,3 +1,10 @@
+## LLM 파이프라인 ##
+* 1. 문서 수집 - Confluence, Notion, S3, 로컬 파일 등에서 원본 문서 가져오기
+* 2. 문서 파싱 - PDF → 텍스트, HTML → 텍스트, 표/이미지 처리
+* 3. 청킹 - RecursiveCharacterTextSplitter (500자, overlap 50) 또는 의미 기반/구조 기반 청킹
+* 4. 임베딩 - 각 청크를 벡터로 변환 (예: bge-m3, text-embedding-3-small)
+* 5. 벡터DB 저장 - 벡터 + 원본 텍스트 + 메타데이터(출처, 날짜 등) 저장
+
 ## Chunking ##
 ```
 전략            정확도    속도     구현 난이도    적합한 경우
