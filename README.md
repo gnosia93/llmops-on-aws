@@ -13,7 +13,8 @@
 ```
 
 ### Topics ###
-* [C2. 모델평가하기](https://github.com/gnosia93/aiops-on-aws/blob/main/lesson/2.evaluation.md)
+* [C2 RAG 파이프라인](https://github.com/gnosia93/llmops-on-aws/blob/main/lesson/2-rag-pipeline.md)
+* [C4. 모델평가하기](https://github.com/gnosia93/aiops-on-aws/blob/main/lesson/4-llm-evaluation.md)
 
 
 ### _Appendix_ ###
